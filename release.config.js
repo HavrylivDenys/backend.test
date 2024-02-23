@@ -1,6 +1,5 @@
 module.exports = {
-  branches: ['develop'],
-  repositoryUrl: 'https://github.com/vitalik203/Resume_seven.git',
+  branches: ['main'],
   plugins: [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",

@@ -2,7 +2,7 @@ module.exports = {
   branches: ['main'],
   debug: true,
   ci: true,
-  dryRun: false,
+  dryRun: true,
   plugins: [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
